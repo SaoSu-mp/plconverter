@@ -2,9 +2,9 @@
 @font-face {
   font-family: "Zawgyi-Tai";
 
-  src: url("./fonts/Zawgyi-Tai.otf") format("opentype"), /* Open Type Font */
-    url("./fonts/Zawgyi-Tai.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("./fonts/Zawgyi-Tai.woff") format("woff"); /* Modern Browsers */
+  src: url("Zawgyi-Tai.otf") format("opentype"), /* Open Type Font */
+    url("Zawgyi-Tai.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("Zawgyi-Tai.woff") format("woff"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
