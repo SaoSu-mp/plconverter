@@ -1,10 +1,10 @@
-/* font converted using font-converter.net. thank you! */
+
 @font-face {
   font-family: "PangLong";
 
-  src: url("./fonts/PangLong.otf") format("opentype"), /* Open Type Font */
-    url("./fonts/PangLong.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("./fonts/PangLong.woff") format("woff"); /* Modern Browsers */
+  src: url("PangLong.otf") format("opentype"), /* Open Type Font */
+    url("PangLong.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("PangLong.woff") format("woff"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
