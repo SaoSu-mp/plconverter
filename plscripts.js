@@ -411,6 +411,10 @@ function zg2uni(output) {
         "to": "$1\u1082$2$3"
     },
     {
+      "from": "\uaa23",
+      "to": "\u002e\u002e\u002e"
+    },/*3dots*/
+    {
       "from": "\uaa3b",
       "to": "\u1090"
     },/*0*/
