@@ -267,6 +267,10 @@ function zg2uni(output) {
       "to": "\u103a"
     },/*saat+*/
     {
+        "from": "\u1039\uaa2e",
+        "to": "\u1082\u103a"
+    },/*ၵၢင်းၵိင်း*/
+    {
         "from": "\u103c([\uaa00\uaa01\u1004\uaa05\u101e\uaa09\u1010\u1011\uaa13\u1015\uaa15\uaa18\uaa19\u101a\u101b\u101c\u101d\uaa1f\uaa21])([\uaa00\uaa01\u1004\uaa05\u101e\uaa09\u1010\u1011\uaa13\u1015\uaa15\uaa18\uaa19\u101a\u101b\u101c\u101d\uaa1f\uaa21])?",
         "to": "$1\u103c$2"
     },/*ၵ-ဢ တႁွပ်ႇလဵပ်ႈဢႃ*/
@@ -290,6 +294,10 @@ function zg2uni(output) {
       "from": "\uaa2c([\u1000-\u1021\uaa00\uaa01\u1004\uaa05\u101e\uaa09\u1010\u1011\uaa13\u1015\uaa15\uaa18\uaa19\u101a\u101b\u101c\u101d\uaa1f\uaa21])",
       "to": "$1\u1084"
     },/*ဢႄသႂ်ႇ*/
+    {
+        "from": "([\uaa00\uaa01\u1004\uaa05\u101e\uaa09\u1010\u1011\uaa13\u1015\uaa15\uaa18\uaa19\u101a\u101b\u101c\u101d\uaa1f\uaa21])?\u103a\uaa2e",
+        "to": "$1\u1082\u103a"
+    },/*ၵ-ဢ ၵၢင်းၵိင်း*/
     {
       "from": "\uaa00",
       "to": "\u1075"
