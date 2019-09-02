@@ -2,9 +2,9 @@
 @font-face {
   font-family: "PangLong";
 
-  src: url("https://github.com/TawngPhaiT/plconverter/blob/master/fonts/PangLong.otf") format("opentype"), /* Open Type Font */
-    url("https://github.com/TawngPhaiT/plconverter/blob/master/fonts/PangLong.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("https://github.com/TawngPhaiT/plconverter/blob/master/fonts/PangLong.woff") format("woff"); /* Modern Browsers */
+  src: url("https://github.com/TawngPhaiT/plconverter/raw/master/fonts/PangLong.otf") format("opentype"), /* Open Type Font */
+    url("https://github.com/TawngPhaiT/plconverter/raw/master/fonts/PangLong.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("https://github.com/TawngPhaiT/plconverter/raw/master/fonts/PangLong.woff") format("woff"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
