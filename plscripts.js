@@ -287,7 +287,7 @@ function zg2uni(output) {
         "to": "$1$2$3\u1031"
     },/*ဢေသႂ်ႇဢႃ*/
     {
-      "from": "\uaa2c([\uaa00\uaa01\u1004\uaa05\u101e\uaa09\u1010\u1011\uaa13\u1015\uaa15\uaa18\uaa19\u101a\u101b\u101c\u101d\uaa1f\uaa21])",
+      "from": "\uaa2c([\u1000-\u1021\uaa00\uaa01\u1004\uaa05\u101e\uaa09\u1010\u1011\uaa13\u1015\uaa15\uaa18\uaa19\u101a\u101b\u101c\u101d\uaa1f\uaa21])",
       "to": "$1\u1084"
     },/*ဢႄသႂ်ႇ*/
     {
